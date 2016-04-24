@@ -1,5 +1,17 @@
 ## Introduction
 
+
+###Attention:
+
+My system is in French so there'll be a little different in plots with data: 
+*Jeu for Jeudi in French --- Thu for Thursday in English
+*Ven for Vendredi in French --- Fri for Friday in English
+*Sam for Samedi in French --- Sat for Saturday in English
+
+
+
+
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
