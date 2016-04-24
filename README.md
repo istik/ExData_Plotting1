@@ -1,15 +1,13 @@
-## Introduction
-
-
-###Attention:
+##Attention:
 
 My system is in French so there'll be a little different in plots with data: 
-*Jeu for Jeudi in French --- Thu for Thursday in English
-*Ven for Vendredi in French --- Fri for Friday in English
-*Sam for Samedi in French --- Sat for Saturday in English
+* Jeu for Jeudi in French --- Thu for Thursday in English
+* Ven for Vendredi in French --- Fri for Friday in English
+* Sam for Samedi in French --- Sat for Saturday in English
 
 
 
+## Introduction
 
 
 This assignment uses data from
